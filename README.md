@@ -11,3 +11,9 @@ This is the new and improved documentation where one can search and find functio
 * Docs one can vote on the best example, or use of function/package.
 * Docs one can get instructions on how to best document their code to get more usage of the package.
 * Integration with Atmosphere for discovery of packages.
+
+## Roadmap
+
+See the roadmap on https://trello.com/b/Fp9P2sDt/api-meteor-com
+
+// @timbrandin
