@@ -14,6 +14,6 @@ This is the new and improved documentation where one can search and find functio
 
 ## Roadmap
 
-See the roadmap on https://trello.com/b/Fp9P2sDt/api-meteor-com
+See the roadmap on https://trello.com/b/Fp9P2sDt/apidocs-meteor-com
 
 // @timbrandin
