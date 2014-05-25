@@ -1,6 +1,6 @@
-#The improved API documentation for Meteor
+#A improved API documentation for Meteor
 
-This is the new and improved documentation where one can search and find functions, definitions and solutions to problems related to Meteor.
+This is a new and improved documentation where one can search and find functions, definitions and solutions to problems related to Meteor.
 
 ## Features
 
